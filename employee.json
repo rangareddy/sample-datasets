@@ -1,0 +1,102 @@
+[
+ {
+   "employee_id": 1,
+   "first_name": "Ranga",
+   "last_name": "Reddy",
+   "email": "rangareddy@yahoo.com",
+   "phone_number": 99509833,
+   "hire_date": "21-Jun-07",
+   "salary": 2600,
+   "manager_id": null
+ },
+ {
+   "employee_id": 2,
+   "first_name": "Raja Sekhar",
+   "last_name": "Reddy",
+   "email": "raja@gmail.com",
+   "phone_number": 75050798,
+   "hire_date": "13-Jan-08",
+   "salary": 2600,
+   "manager_id": 1
+ },
+ {
+   "employee_id": 3,
+   "first_name": "Vasundra",
+   "last_name": "Reddy",
+   "email": "vasu@gmail.com",
+   "phone_number": 91512344,
+   "hire_date": "17-Sep-03",
+   "salary": 4400,
+   "manager_id": 1
+ },
+ {
+   "employee_id": 4,
+   "first_name": "Meena",
+   "last_name": "P",
+   "email": "meena@test.com",
+   "phone_number": 81535555,
+   "hire_date": "17-Feb-04",
+   "salary": 13000,
+   "manager_id": 2
+ },
+ {
+   "employee_id": 5,
+   "first_name": "Manoj",
+   "last_name": "Kumar",
+   "email": "manu@rediff.com",
+   "phone_number": 60312366,
+   "hire_date": "17-Aug-05",
+   "salary": 6000,
+   "manager_id": 3
+ },
+ {
+   "employee_id": 6,
+   "first_name": "Vinod",
+   "last_name": "Kumar",
+   "email": "vinod@zoho.com",
+   "phone_number": 71237777,
+   "hire_date": "07-Jun-02",
+   "salary": 6500,
+   "manager_id": 3
+ },
+ {
+   "employee_id": 7,
+   "first_name": "Raja",
+   "last_name": "Reddy",
+   "email": "rajar@yahoo.co.in",
+   "phone_number": 91518888,
+   "hire_date": "07-Jun-02",
+   "salary": 10000,
+   "manager_id": 4
+ },
+ {
+   "employee_id": 8,
+   "first_name": "Shiva",
+   "last_name": "P",
+   "email": "shiva@mymail.com",
+   "phone_number": 81512380,
+   "hire_date": "07-Jun-02",
+   "salary": 12008,
+   "manager_id": 6
+ },
+ {
+   "employee_id": 9,
+   "first_name": "Reddy",
+   "last_name": "Babu",
+   "email": "babu@mail.com",
+   "phone_number": 91528181,
+   "hire_date": "07-Jun-02",
+   "salary": 8300,
+   "manager_id": 7
+ },
+ {
+   "employee_id": 10,
+   "first_name": "Nishanth",
+   "last_name": "Reddy",
+   "email": "nish@nish.com",
+   "phone_number": 61512347,
+   "hire_date": "17-Jun-03",
+   "salary": 24000,
+   "manager_id": 2
+ }
+]

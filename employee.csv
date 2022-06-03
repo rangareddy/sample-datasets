@@ -1,4 +1,4 @@
-EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,HIRE_DATE,SALARY,MANAGER_ID
+employee_id,first_name,last_name,email,phone_number,hire_date,salary,manager_id
 1,Ranga,Reddy,rangareddy@yahoo.com, 99509833,21-Jun-07,2600,
 2,Raja Sekhar,Reddy,raja@gmail.com,75050798,13-Jan-08,2600,1
 3,Vasundra,Reddy,vasu@gmail.com,91512344,17-Sep-03,4400,1
