@@ -1,11 +1,11 @@
-employee_id,first_name,last_name,email,phone_number,hire_date,salary,manager_id
-1,Ranga,Reddy,rangareddy@yahoo.com, 99509833,21-Jun-07,2600,
-2,Raja Sekhar,Reddy,raja@gmail.com,75050798,13-Jan-08,2600,1
-3,Vasundra,Reddy,vasu@gmail.com,91512344,17-Sep-03,4400,1
-4,Meena,P,meena@test.com,81535555,17-Feb-04,13000,2
-5,Manoj,Kumar,manu@rediff.com,60312366,17-Aug-05,6000,3
-6,Vinod,Kumar,vinod@zoho.com,71237777,07-Jun-02,6500,3
-7,Raja,Reddy,rajar@yahoo.co.in,91518888,07-Jun-02,10000,4
-8,Shiva,P,shiva@mymail.com,81512380,07-Jun-02,12008,6
-9,Reddy,Babu,babu@mail.com,91528181,07-Jun-02,8300,7
-10,Nishanth,Reddy,nish@nish.com,61512347,17-Jun-03,24000,2
+employee_id,first_name,last_name,email,phone_number,hire_date,salary
+1,Ranga,Reddy,rangareddy@yahoo.com, 99509833,21-Jun-07,2600
+2,Raja Sekhar,Reddy,raja@gmail.com,75050798,13-Jan-08,2600
+3,Vasundra,Reddy,vasu@gmail.com,91512344,17-Sep-03,4400
+4,Meena,P,meena@test.com,81535555,17-Feb-04,13000
+5,Manoj,Kumar,manu@rediff.com,60312366,17-Aug-05,6000
+6,Vinod,Kumar,vinod@zoho.com,71237777,07-Jun-02,6500
+7,Raja,Reddy,rajar@yahoo.co.in,91518888,07-Jun-02,10000
+8,Shiva,P,shiva@mymail.com,81512380,07-Jun-02,12008
+9,Reddy,Babu,babu@mail.com,91528181,07-Jun-02,8300
+10,Nishanth,Reddy,nish@nish.com,61512347,17-Jun-03,24000
