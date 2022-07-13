@@ -1,5 +1,5 @@
 employee_id,first_name,last_name,email,phone_number,hire_date,salary
-1,Ranga,Reddy,rangareddy@yahoo.com, 99509833,21-Jun-07,2600
+1,Ranga,Reddy,rangareddy@yahoo.com,99509833,21-Jun-07,2600
 2,Raja Sekhar,Reddy,raja@gmail.com,75050798,13-Jan-08,2600
 3,Vasundra,Reddy,vasu@gmail.com,91512344,17-Sep-03,4400
 4,Meena,P,meena@test.com,81535555,17-Feb-04,13000
